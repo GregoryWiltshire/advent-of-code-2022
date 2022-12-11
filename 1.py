@@ -23,7 +23,4 @@ print('elf', 'total_calories')
 print(max_idx, current_max)
 
 print('top', '3')
-
 print(sum(list(reversed(sorted(elves)))[0:3]))
-
-print()
